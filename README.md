@@ -1,6 +1,3 @@
-# Sword-and-Sorcery
-A small prototype made in Unity, inspired by third-person RPG's in a medieval-fantastic universe.
-
 <h1 align="center">Sword and Sorcery</h1>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221446912-be51664f-06ba-4161-835f-25a12cd3eb18.png"></p>
 <p align="center"><img width="900" src="https://user-images.githubusercontent.com/11299907/221446914-d5621848-9ea1-4453-8ee1-5a23fa030611.png"></p>
