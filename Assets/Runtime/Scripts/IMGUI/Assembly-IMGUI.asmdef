@@ -1,0 +1,24 @@
+{
+    "name": "Assembly-IMGUI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:dbcc72cec4315304196cd86d1f632f8d",
+        "GUID:601d1dd7eda08d94e8c9152482423ab4",
+        "GUID:b411eca7c4dd9b14c811e933c68637f3"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
